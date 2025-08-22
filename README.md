@@ -1,1 +1,1 @@
-# Cognitive-Robotics-Coursework
+Some experiments in Computer Vision.
